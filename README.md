@@ -16,8 +16,6 @@ The password for the login screen is "Awesome_NITK".
 
 ### Screenshots
 
-![](img/1.png)
-
 
 
 ![](img/2.png)
